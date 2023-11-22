@@ -1,0 +1,30 @@
+body{
+    background:url(background.jpg);
+    size: 100%;
+}
+
+.heading1{
+    text-align: center;
+    color: bisque;
+    text-decoration: dashed;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.result-h2{
+    color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.form-container{
+    color: aliceblue;
+    font-size: large;
+    width:auto;
+    height: 100px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
